@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/nirajdsouza/nirajdsouza/blob/master/Hello_World.gif" width="30px">
+<img src="https://github.com/nirajdsouza/nirajdsouza/blob/master/Hello_World.gif">
 
 <!--
 **nirajdsouza/nirajdsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
