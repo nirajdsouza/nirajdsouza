@@ -35,5 +35,6 @@ I'm Niraj Dsouza, a versatile professional with a background in **technology, st
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/nirajdsouza)
-- [Email](mailto:niraj.dsouza@stern.nyu.edu)
+- LinkedIn: https://www.linkedin.com/in/nirajdsouza
+- Email: niraj.dsouza@stern.nyu.edu
+- [Resume](https://drive.google.com/file/d/1m_2Z248jsjgJEgk3cFKFe-7p2x4Qq8Uh/view?usp=sharing)
