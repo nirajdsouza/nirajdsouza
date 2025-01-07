@@ -1,13 +1,12 @@
+<!--img src="https://github.com/nirajdsouza/nirajdsouza/blob/master/Hello_World.gif" height="100" width="100%"-->
 
 # Hi there, I'm Niraj Raymond D'Souza 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nirajdsouza&color=blue)
 
-<!--img src="https://github.com/nirajdsouza/nirajdsouza/blob/master/Hello_World.gif" height="100" width="100%"-->
-
 ## About Me
 
-I'm Niraj Dsouza, a versatile professional with a background in **technology, strategy, and finance**. I have experience across diverse domains, from software engineering and product strategy to consulting and leadership. My passion lies in solving complex problems, driving innovation, and creating impact through data-driven decision-making and collaborative leadership.
+I'm Niraj D'Souza, a business professional with a background in **technology, strategy, and finance**. I have experience across diverse domains, from software engineering and product strategy to consulting and leadership. My passion lies in solving complex problems, driving innovation, and creating impact through data-driven decision-making and collaborative leadership.
 
 - 🌱 I’m currently learning **advanced Python** and **AI/ML tools**.
 - 🔭 I’m currently working on **business development strategies** and exploring **fintech innovations**.
