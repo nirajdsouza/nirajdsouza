@@ -12,7 +12,7 @@ I'm Niraj D'Souza, a business professional with a background in **technology, st
 - 🔭 I’m currently working on **business development strategies** and exploring **fintech innovations**.
 - 👯 I’m looking to collaborate on **open-source projects in fintech, edtech, or AI**.
 - 💬 Ask me about **strategy, product management, financial modeling, or Agile frameworks**.
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/nirajdsouza)** or **[Email](mailto:niraj.dsouza@stern.nyu.edu)**.
+- 📫 How to reach me: **[Website](https://nirajdsouza.github.io/)**, **[Calendly](https://calendly.com/niraj-dsouza-stern/15-minute-connect), **[LinkedIn](https://www.linkedin.com/in/nirajdsouza)** or **[Email](mailto:niraj.dsouza@stern.nyu.edu)**.
 
 ## Skills
 
@@ -34,6 +34,8 @@ I'm Niraj D'Souza, a business professional with a background in **technology, st
 
 ## Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/nirajdsouza
-- Email: niraj.dsouza@stern.nyu.edu
+- [LinkedIn](https://www.linkedin.com/in/nirajdsouza)
+- [Email](mailto:niraj.dsouza@stern.nyu.edu): niraj.dsouza@stern.nyu.edu
 - [Resume](https://drive.google.com/file/d/1m_2Z248jsjgJEgk3cFKFe-7p2x4Qq8Uh/view?usp=sharing)
+- [Website](https://nirajdsouza.github.io/)
+- [Calendly](https://calendly.com/niraj-dsouza-stern/15-minute-connect)
